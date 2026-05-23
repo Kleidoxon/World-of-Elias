@@ -3,7 +3,7 @@ Compiled from V0.1 + V0.2 Parts 1–3. V0.2 content supersedes V0.1 where both e
 
 Provinces 8–11, Mythical Creatures, and Weapons sections are carried from V0.1 pending V0.2 expansion.
 
-Docs : https://docs.google.com/document/d/1opJ6lA2ZDmxBLR83vjUbdS2zt8NR6mEFxKpFEl1rLLM/edit?tab=t.0
+Docs : https://docs.google.com/document/d/1GtPPErfaaP1QNxFJ32P-kFdtgFvXubszjIp_FQijCiY/edit?usp=sharing
 
 ◈ PLOT NOTES (DEFERRED — DO NOT RESOLVE EARLY)
 ID
