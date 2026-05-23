@@ -1,6 +1,9 @@
 ELIAS — World Bible (Master Compiled Draft)
-Compiled from V0.1 + V0.2 Parts 1–3. V0.2 content supersedes V0.1 where both exist. Provinces 8–11, Mythical Creatures, and Weapons sections are carried from V0.1 pending V0.2 expansion.
+Compiled from V0.1 + V0.2 Parts 1–3. V0.2 content supersedes V0.1 where both exist. 
 
+Provinces 8–11, Mythical Creatures, and Weapons sections are carried from V0.1 pending V0.2 expansion.
+
+Docs : https://docs.google.com/document/d/1opJ6lA2ZDmxBLR83vjUbdS2zt8NR6mEFxKpFEl1rLLM/edit?tab=t.0
 
 ◈ PLOT NOTES (DEFERRED — DO NOT RESOLVE EARLY)
 ID
@@ -39,11 +42,18 @@ Magic in Elias flows from the Weave — the fabric Elias the First Weaver used t
 
 To use magic, a person must enter a spiritual state through meditation, accessing the Weave's threads and drawing them inward as mana. Mana is the fuel. Its capacity (how much the body can hold) and quality (how refined and powerful it is) determine the ceiling of everything a mage can do.
 MANA ACQUISITION — THREE STEPS
-Step 1 — Meditation & Spiritual State: The caster achieves stillness of mind sufficient to perceive the Weave. In crisis, experienced mages drop into a partial spiritual state in seconds. Novices may need minutes. The state cannot be forced — it must be entered willingly. This is why panic, extreme grief, and overwhelming rage are dangerous to untrained mages: the Weave responds to uncontrolled emotion with uncontrolled output.
 
-Step 2 — Pulling the Thread: Once in the spiritual state, the caster grasps a Weave thread and draws it inward. The thread converts to mana upon contact with the caster's inner reservoir. Success rate depends on the caster's Inner Trait and Potential Mana Level (both listed in full below).
+Step 1 — Meditation & Spiritual State: The caster achieves stillness of mind sufficient to perceive the Weave. In crisis, experienced mages drop into a partial spiritual state in seconds. Novices may need minutes. 
+The state cannot be forced — it must be entered willingly. This is why panic, extreme grief, and overwhelming rage are dangerous to untrained mages: the Weave responds to uncontrolled emotion with uncontrolled output.
 
-Step 3 — Storing & Casting: Mana is stored in the body's Weave-reservoir — a metaphysical structure, not physical; it cannot be surgically found or destroyed by conventional means. The reservoir refills through further meditation or rest in Weave-dense areas (near ley-lines, old forests, volcanic Weave-nodes).
+Step 2 — Pulling the Thread: Once in the spiritual state, the caster grasps a Weave thread and draws it inward. 
+The thread converts to mana upon contact with the caster's inner reservoir. Success rate depends on the caster's Inner Trait and Potential Mana Level (both listed in full below).
+
+Step 3 — Storing & Casting: Mana is stored in the body's Weave-reservoir — a metaphysical structure, not physical; it cannot be surgically found or destroyed by conventional means. 
+
+The reservoir refills through further meditation or rest in Weave-dense areas (near ley-lines, old forests, volcanic Weave-nodes).
+
+
 THE THREE MANA SOURCES
 Source
 Description
